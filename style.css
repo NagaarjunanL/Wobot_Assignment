@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+    width: 100;
+    height: 100%;
+
+}
+.section{
+    background-color: white;
+    text-align: center;
+    width: 40%;
+    margin: 80px 400px;
+    border-radius: 20px;
+    padding: 30px;
+
+}
+img{
+    width: 100px;
+    height: 70px;
+}
+
+label{
+    float: left;
+    padding-left: 80px;
+}
+input{
+    width: 65%;
+    padding: 10px;
+}
+select{
+    width: 70%;
+    padding: 10px;
+}
+.size{
+    width: 70%;
+    padding-left: 40px;
+    margin: 10px;
+}
+.submit_button{
+    padding: 10px;
+    width: 70%;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
